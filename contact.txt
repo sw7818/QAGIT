@@ -1,1 +1,2 @@
 This is line 1 in contact.txt
+This is a change to contact.txt
